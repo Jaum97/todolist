@@ -1,8 +1,10 @@
-# Simple TodoList App
+# Simple TodoList App 
 
-Made with:
-React
-Ramda
+Check it out at (https://todolist-mismo.herokuapp.com)
+
+Made with:\
+React\
+Ramda\
 Styled components
 
 # Getting Started with Create React App
